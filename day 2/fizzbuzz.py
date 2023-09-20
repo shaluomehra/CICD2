@@ -1,5 +1,6 @@
 # Get an input from the user
 
+
 num = int(input("Enter a number: "))
 
 # Check for multiples of 3 and/or 5
