@@ -43,3 +43,9 @@ Test if it works
 ```python
 ssh -T git@github.com
 ```
+
+changing from https to ssh
+
+```python
+git remote set-url git@github.com:shaluomehra/tech_254_python.git
+```
