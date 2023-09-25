@@ -95,7 +95,6 @@ Once you've done this you can follow the usual steps to add and commit the file 
 15. This should now be done, we can use `git remote -v` just to confirm we have used SSH to push the file:
 <br>
 Output: 
-```bash
-origin  git@github.com:shaluomehra/tech_254_python.git (fetch)
-origin  git@github.com:shaluomehra/tech_254_python.git (push)
-```
+
+`origin  git@github.com:shaluomehra/tech_254_python.git (fetch)`
+`origin  git@github.com:shaluomehra/tech_254_python.git (push)`
