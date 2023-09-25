@@ -21,3 +21,25 @@ SSH significantly increases security by encrypting the connection between a clie
 This encryption prevents eavesdropping and man-in-the-middle attacks where an attacker intercepts and potentially alters the data being transmitted
 
 ![before_ssh.png](before_ssh.png)
+
+
+Go in the .ssh folder (it's hidden)
+Using the .ssh folder <br>
+`ssh-keygen -t rsa -b 4096 -C "shaluomehra@outlook.com"` <br>
+copy the public key to github
+```python
+eval `ssh-agent`
+#will give an agent pid
+```
+add the private key 
+
+```python
+ssh-add ~/.ssh/github_test
+
+```
+
+Test if it works
+
+```python
+ssh -T git@github.com
+```
