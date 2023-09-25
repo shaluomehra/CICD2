@@ -98,5 +98,4 @@ Output:
 ```bash
 origin  git@github.com:shaluomehra/tech_254_python.git (fetch)
 origin  git@github.com:shaluomehra/tech_254_python.git (push)
-
 ```
