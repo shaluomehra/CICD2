@@ -8,7 +8,7 @@ This tutorial will guide you through the basic steps of using Git for version co
 
 To start using Git, you need to initialise a Git repository in your project folder. Open your terminal and navigate to your project directory: using `git init`
 
-## Step 2: Adding Filess
+## Step 2: Adding Files
 
 Now that your repository is set up, you can start adding files to be tracked by Git. Use the following command to add a file:
 ```bash
