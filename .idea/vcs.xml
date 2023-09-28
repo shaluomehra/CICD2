@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GitHub_SSH" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws_cloud_computing" vcs="Git" />
   </component>
 </project>
